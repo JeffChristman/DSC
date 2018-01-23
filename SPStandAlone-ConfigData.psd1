@@ -9,7 +9,7 @@
         Passphrase = "NCTinc2012"
         DomainName = "nctdev.local"
         DomainNetBIOS = "nctdev"
-        ProductKey = "NQGJR-63HC8-XCRQH-MYVCH-3J3QR" 
+        ProductKey = "MYVCH-3J3QR" 
         LanguagePackPath = "c:\DSC-Share\Media\SP2016LanguagePack"
         SharePointBinaryPath = "c:\DSC-Share\Media\SP2016Binaries"  
         SQLBinaryPath = "c:\DSC-Share\Media\SQL2016Binaries"
