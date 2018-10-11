@@ -1,2 +1,2 @@
 ### DSC
-##Setup of SharePoint Farms using Powershell DSC 
+## Setup of SharePoint Farms using Powershell DSC 
